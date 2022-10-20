@@ -3,7 +3,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Study-Timer**
-| :label: Tecnologias | javascript, html, typescript, scss (tecnologias utilizadas)
+| :label: Tecnologias | javascript, html, typescript, scss
 
 # Getting Started with Create React App
 
