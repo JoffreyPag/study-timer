@@ -5,10 +5,6 @@ Rápida descrição do objetivo de fazer esse projeto
 | :sparkles: Nome        | **Study-Timer**
 | :label: Tecnologias | javascript, html, typescript, scss (tecnologias utilizadas)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
